@@ -13,5 +13,13 @@
     "mongoose": "^5.9.15"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush10oo/TodoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Piyush10oo/TodoList/issues"
+  },
+  "homepage": "https://github.com/Piyush10oo/TodoList#readme",
   "description": ""
 }
